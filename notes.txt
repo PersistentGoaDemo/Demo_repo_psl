@@ -2,3 +2,5 @@ git int
 git status
 git clone --
 git commit -a -m "second commit"
+
+git add
