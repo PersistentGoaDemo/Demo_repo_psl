@@ -13,3 +13,4 @@ git status
 git add
 trying pull
 hey i pulled from git
+lets c if it works
