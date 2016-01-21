@@ -11,3 +11,4 @@ git log
 git log --oneline
 git status
 git add
+trying pull
