@@ -1,6 +1,13 @@
 git int 
 git status
-git clone --
+git commit
 git commit -a -m "second commit"
-feature2
+git branch <name>
+git checkout branch
+git checkout commitid
+git diff <oldcommitid> <newcommit>
+git revert
+git log
+git log --oneline
+git status
 git add
